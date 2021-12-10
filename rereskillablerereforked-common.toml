@@ -1,0 +1,174 @@
+# NOTE: THE MAX LEVEL IS 32!
+
+skillLocks = [
+
+
+# SHOVEL
+
+"minecraft:iron_shovel gathering:5",
+"minecraft:diamond_shovel gathering:8",
+"minecraft:netherite_shovel gathering:13",
+
+# PICKAXE
+
+"aquaculture:neptunium_pickaxe mining:13",
+"betterendforge:thallasium_pickaxe mining:7",
+"botania:elementium_pickaxe mining:5",
+"botania:manasteel_pick mining:7",
+"createlegacy:blazing_pickaxe mining:8 magic:3",
+"createlegacy:rose_quartz_pickaxe mining:8",
+"createlegacy:shadow_steel_pickaxe mining:32, magic:10",
+"iceandfire:dragonbone_pickaxe mining:15",
+"iceandfire:dragonsteel_fire_pickaxe mining:25 attack:10 magic:10",
+"iceandfire:dragonsteel_ice_pickaxe mining:25 attack:10 magic:10",
+"iceandfire:dragonsteel_lightning_pickaxe mining:25 attack:10 magic:10",
+"iceandfire:myrmex_desert_pickaxe mining:7",
+"iceandfire:myrmex_jungle_pickaxe mining:7",
+"iceandfire:silver_pickaxe mining:9",
+"minecraft:diamond_pickaxe mining:8",
+"minecraft:iron_pickaxe mining:5",
+"minecraft:netherite_pickaxe mining:12",
+"mysticalworld:amethyst_pickaxe mining:8",
+"mysticalworld:copper_pickaxe mining:3",
+"mysticalworld:lead_pickaxe mining:7",
+"mysticalworld:quicksilver_pickaxe mining:6",
+"mysticalworld:silver_pickaxe mining:6",
+"mysticalworld:tin_pickaxe mining:6",
+"stalwart_dungeons:chorundum_pickaxe mining:13",
+"stalwart_dungeons:tungsten_pickaxe mining:15",
+"twilightforest:fiery_pickaxe mining:16",
+"twilightforest:giant_pickaxe mining:30 attack:15",
+"twilightforest:ironwood_pickaxe mining:8",
+"twilightforest:knightmetal_pickaxe mining:10",
+"twilightforest:steeleaf_pickaxe mining:12",
+"yurinas_enderite_mod:enderite_pickaxe mining:14",
+
+
+# AXE
+
+"aquaculture:neptunium_axe gathering:13",
+"betterendforge:thallasium_axe gathering:7",
+"botania:elementium_axe gathering:5",
+"botania:manasteel_axe gathering:7",
+"createlegacy:blazing_axe gathering:8 magic:3",
+"createlegacy:rose_quartz_axe gathering:8",
+"createlegacy:shadow_steel_axe gathering:20, magic:10",
+"iceandfire:dragonbone_axe gathering:15",
+"iceandfire:dragonsteel_fire_axe gathering:10 attack:25 magic:10",
+"iceandfire:dragonsteel_ice_axe gathering:10 attack:25 magic:10",
+"iceandfire:dragonsteel_lightning_axe gathering:10 attack:25 magic:10",
+"iceandfire:myrmex_desert_axe gathering:7 magic 4",
+"iceandfire:myrmex_jungle_axe gathering:7 magic 4",
+"iceandfire:silver_axe gathering:9",
+"minecraft:diamond_axe gathering:8",
+"minecraft:iron_axe gathering:5",
+"minecraft:netherite_axe gathering:12",
+"mysticalworld:amethyst_axe gathering:8",
+"mysticalworld:copper_axe gathering:3",
+"mysticalworld:lead_axe gathering:7",
+"mysticalworld:quicksilver_axe gathering:6",
+"mysticalworld:silver_axe gathering:6",
+"mysticalworld:tin_axe gathering:6",
+"stalwart_dungeons:chorundum_axe gathering:13",
+"stalwart_dungeons:tungsten_axe gathering:15",
+"twilightforest:fiery_axe gathering:16",
+"twilightforest:giant_axe gathering:30 attack:15",
+"twilightforest:ironwood_axe gathering:8",
+"twilightforest:knightmetal_axe gathering:10",
+"twilightforest:steeleaf_axe gathering:12",
+"yurinas_enderite_mod:enderite_axe gathering:14",
+"twilightforest:minotaur_axe gathering:9",
+"twilightforest:minotaur_axe_gold gathering:8",
+"mowziesmobs:wrought_axe gathering:7 attack:16",
+
+
+
+
+# ARMOR
+
+
+"minecraft:iron_helmet defence:5",
+"minecraft:iron_chestplate defence:5",
+"minecraft:iron_leggings defence:5",
+"minecraft:iron_boots defence:5",
+
+"minecraft:diamond_helmet defence:8",
+"minecraft:diamond_chestplate defence:8",
+"minecraft:diamond_leggings defence:8",
+"minecraft:diamond_boots defence:8",
+
+"minecraft:netherite_helmet defence:13",
+"minecraft:netherite_chestplate defence:13",
+"minecraft:netherite_leggings defence:13",
+"minecraft:netherite_boots defence:13",
+
+"minecraft:turtle_helmet defence:10",
+
+"minecraft:elytra agility:20",
+
+
+
+
+# HOE  
+
+"minecraft:iron_hoe farming:5",
+"minecraft:diamond_hoe farming:8",
+"minecraft:netherite_hoe farming:13",
+
+# MISC
+
+"minecraft:fishing_rod gathering:5",
+"minecraft:shears gathering:5",
+"minecraft:lead farming:5",
+"minecraft:bow attack:5 agility:3",
+"minecraft:crossbow attack:5 agility:5",
+"minecraft:trident attack:8 agility:10",
+
+# BLOCKS
+
+"minecraft:enchanting_table magic:10",
+"minecraft:smithing_table building:10",
+"minecraft:end_crystal magic:20",
+
+# CONSUMABLES
+
+"minecraft:golden_apple magic:5",
+"minecraft:enchanted_golden_apple magic:10",
+"minecraft:ender_pearl magic:5",
+"minecraft:ender_eye magic:10",
+
+# SWORDS
+
+"minecraft:iron_sword attack:5",
+"minecraft:diamond_sword attack:8",
+"minecraft:netherite_sword attack:13",
+"aquaculture:neptunium_sword attack:15",
+"betterendforge:aeternium_sword attack:14",
+"betterendforge:thallasium_sword attack:5",
+"betterendforge:termite_sword attack:8",
+"botania:manasteel_sword attack:5",
+"botania:elementium_sword attack:5",
+"iceandfire:silver_sword attack:6",
+"iceandfire:dragonbone_sword attack:9",
+"iceandfire:dragonbone_sword_fire attack:18",
+"iceandfire:dragonbone_sword_ice attack:18",
+"iceandfire:dragonbone_sword_lightning attack:18",
+"iceandfire:hippogryph_sword attack:6",
+"iceandfire:myrmex_desert_sword attack:7",
+"iceandfire:myrmex_desert_sword_venom attack:7",
+"iceandfire:myrmex_jungle_sword attack:7",
+"iceandfire:myrmex_jungle_sword_venom attack:7",
+"iceandfire:dragonsteel_fire_sword attack:20",
+"iceandfire:dragonsteel_ice_sword attack:20",
+"iceandfire:dragonsteel_lightning_sword attack:20",
+"iceandfire:dread_sword attack:3",
+"iceandfire:dread_knight_sword attack:16",
+"iceandfire:ghost_sword attack:15",
+"stalwart_dungeons:tungsten_sword attack:7",
+"stalwart_dungeons:chorundum_sword attack:14",
+"twilightforest:ironwood_sword attack:5",
+"twilightforest:fiery_sword attack:14",
+"twilightforest:steeleaf_sword attack:7",
+
+
+]
